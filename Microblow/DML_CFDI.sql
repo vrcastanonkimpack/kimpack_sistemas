@@ -3,3 +3,4 @@ begin
 Select CLAVE+'-'+DESCRIPCION
 FROM [KimpackERP].[dbo].[USO_CFDI]
 end
+GO

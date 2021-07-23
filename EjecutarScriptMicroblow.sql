@@ -6,5 +6,4 @@ GO
 :r C:\Users\ServidorP\Documents\Scripts\Microblow\DML_CFDI.sql
 :r C:\Users\ServidorP\Documents\Scripts\Microblow\DML_InsertaRoles.sql
 :r C:\Users\ServidorP\Documents\Scripts\Microblow\DML_InsertaUsuarios.sql
-PRINT 'Script Ejecutado correctamente'
 GO
