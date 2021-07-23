@@ -19,7 +19,7 @@ INSERT INTO [MicroblowERP].[dbo].[USERS]
 ('analilia','703649',1,12,0),
 ('areli','924577',1,13,0),
 ('calidad','141312',1,14,0),
-('hugo','850331',1,15,0),
+('hugo','850331',1,15,0)
 GO
 
 
